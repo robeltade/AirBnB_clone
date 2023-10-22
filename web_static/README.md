@@ -1,1 +1,1 @@
-web static for aiirbnb
+web static development for airbnb
